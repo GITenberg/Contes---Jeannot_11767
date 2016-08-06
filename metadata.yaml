@@ -1,0 +1,29 @@
+_repo: Contes---Jeannot_11767
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Girardin, Jules
+    alias: Girardin, J. (Jules)
+    birthdate: 1832
+    deathdate: 1888
+    gutenberg_agent_id: '6142'
+    url: http://www.gutenberg.org/2009/agents/6142
+description: ''
+gutenberg_bookshelf: FR Jeunesse
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11767'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s stories, French'
+- GITenberg
+tableOfContents: Lettres de Finette à son amie de coeur, Michette, à Paris -- La faute
+  de Nono -- Charles Klipmann -- Les trois petits chiens -- Le père Viaud -- Influence
+  d'un ours sur les relations de trois petites filles.
+title: Contes à Jeannot
+url: http://www.gutenberg.org/ebooks/11767
